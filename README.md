@@ -18,7 +18,7 @@ LumanovOS, Alpine Linux tabanlı, **PlayStation 5** ve **macOS** estetiğini bir
 LumanovOS'u sisteminize tek tıkla kurmak için şu komutu çalıştırın:
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/LumanovOS-DE.git
+git clone https://github.com/rglomen/LumanovOS-DE.git
 cd LumanovOS-DE
 sh install.sh
 ```
