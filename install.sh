@@ -14,7 +14,7 @@ fi
 # 2. Sistem Güncelleme ve Bağımlılıklar
 echo "📥 Bağımlılıklar kuruluyor..."
 apk update
-apk add python3 py3-pyside6 py3-pip openbox dbus-python font-dejavu mesa-dri-gallium
+apk add python3 py3-pyside6 py3-pip openbox py3-dbus font-dejavu mesa-dri-gallium mesa-gl
 
 # 3. Klasör Yapısını Oluştur
 echo "📁 Klasörler hazırlanıyor..."
