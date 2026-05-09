@@ -3,7 +3,8 @@ import os
 import subprocess
 import glob
 from PySide6.QtGui import QGuiApplication, QIcon, QPixmap
-from PySide6.QtQml import QQmlApplicationEngine, QQuickImageProvider
+from PySide6.QtQml import QQmlApplicationEngine
+from PySide6.QtQuick import QQuickImageProvider
 from PySide6.QtCore import QObject, Slot, Property, Qt, QSize
 from core.theme_manager import ThemeManager
 from core.notification_manager import NotificationManager
