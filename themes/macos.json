@@ -1,0 +1,10 @@
+{
+    "name": "Lumanov macOS",
+    "bg_color": "#f0f0f0",
+    "accent_color": "#007aff",
+    "panel_color": "#ffffff",
+    "panel_opacity": 0.4,
+    "blur_radius": 50,
+    "text_color": "#000000",
+    "glass_effect": true
+}

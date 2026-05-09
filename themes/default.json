@@ -1,0 +1,10 @@
+{
+    "name": "Lumanov Dark",
+    "bg_color": "#0f1218",
+    "accent_color": "#00aaff",
+    "panel_color": "#1a1f26",
+    "panel_opacity": 0.9,
+    "blur_radius": 0,
+    "text_color": "#ffffff",
+    "glass_effect": false
+}
